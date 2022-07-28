@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/41957723/181509240-12f841f8-69cc-41e8-855d-3987c2bf0d7a.png" width="40px" height="40px"></img><br/>
+![Yaneogal_main](https://user-images.githubusercontent.com/105188620/181587809-cb324016-bc39-4ae0-ba8b-5f3aa99072fc.jpeg)
 
 프로젝트 소개 
 '야, 너도 갈래?' 는 내가 인상 깊었던 여행코스, 
