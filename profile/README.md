@@ -43,10 +43,12 @@ BackEnd
 ![야너도갈래ERD](https://user-images.githubusercontent.com/105188620/181571360-7046077c-10ef-4d94-a744-8a2cc319a293.png)
 
 ## 트러블슈팅
+
+## 팀원
 |이름|포지션|깃허브|
 |------|---|---|
 |<g-emoji class="g-emoji" alias="beginner" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f530.png">🔰</g-emoji>노흥진|BE|테스트3|
-|<g-emoji class="g-emoji" alias="beginner" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f530.png">🔰</g-emoji>김수정|FE|테스트3|
+|<g-emoji class="g-emoji" alias="beginner" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f530.png">🔰</g-emoji>김수정|FE|https://github.com/soojeongkimkr|
 |이준호|BE|https://github.com/Mohorang|
 |이호진|BE|테스트3|
-|홍수민|FE|테스트3|
+|홍수민|FE|https://github.com/hongsoom|
