@@ -36,7 +36,8 @@ BackEnd
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black">
 </div>
 
-## 아키텍쳐 
+## 아키텍처 
+![yaneogal_architecture](https://user-images.githubusercontent.com/105188620/181704268-6daa1031-8729-4677-aae2-07a6c984d650.jpg)
 
 ## ERD
 ![야너도갈래ERD](https://user-images.githubusercontent.com/105188620/181571360-7046077c-10ef-4d94-a744-8a2cc319a293.png)
