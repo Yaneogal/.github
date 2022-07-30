@@ -47,8 +47,8 @@ BackEnd
 ## 팀원
 |이름|포지션|깃허브|
 |------|---|---|
-|<g-emoji class="g-emoji" alias="beginner" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f530.png">🔰</g-emoji>노흥진|BE|테스트3|
+|<g-emoji class="g-emoji" alias="beginner" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f530.png">🔰</g-emoji>노흥진|BE|https://github.com/goodtonoh|
 |<g-emoji class="g-emoji" alias="beginner" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f530.png">🔰</g-emoji>김수정|FE|https://github.com/soojeongkimkr|
 |이준호|BE|https://github.com/Mohorang|
-|이호진|BE|테스트3|
+|이호진|BE|https://github.com/HoJinnn|
 |홍수민|FE|https://github.com/hongsoom|
