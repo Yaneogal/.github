@@ -60,3 +60,4 @@ BackEnd
 |이준호|BE|https://github.com/Mohorang|
 |이호진|BE|https://github.com/HoJinnn|
 |홍수민|FE|https://github.com/hongsoom|
+|이찬율|디자이너||
