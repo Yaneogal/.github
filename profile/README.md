@@ -52,13 +52,13 @@ BackEnd
     <img src="https://img.shields.io/badge/github%20actions-0769AD?style=for-the-badge&logo=github%20actions&logoColor=white">
 </div>
 
-##  아키텍처 
+## 📖 아키텍처 
 ![yaneogal_architecture](https://user-images.githubusercontent.com/105188620/181704268-6daa1031-8729-4677-aae2-07a6c984d650.jpg)
 
-## ERD
+## 📃 ERD
 ![야너도갈래ERD](https://user-images.githubusercontent.com/105188620/181571360-7046077c-10ef-4d94-a744-8a2cc319a293.png)
 
-## 트러블슈팅
+## 🔥 트러블슈팅
 
 ## 팀원
 |이름|포지션|깃허브|
