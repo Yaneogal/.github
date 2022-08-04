@@ -1,11 +1,11 @@
 ![Yaneogal_main](https://user-images.githubusercontent.com/105188620/181587809-cb324016-bc39-4ae0-ba8b-5f3aa99072fc.jpeg)
 
-## 프로젝트 소개 
+## 🔎 프로젝트 소개 
 <p>'야, 너도 갈래?' 는 내가 인상 깊었던 여행코스, 
 일상에서 남들에게 추천하고 싶었던 장소를 공유할 수 있도록 기획한 서비스 입니다.</p>
 <p>야너갈을 통해 내가 관심있는 지역이나 테마를 설정하고 진짜 정보를 경험하세요.</p> 
 
-## 서비스 기획
+## ✏ 서비스 기획
 - “야 너도 갈래?”는 경험자들의 여행 코스와 정보를 공유하는 서비스
 - **타겟층**
     - 여행 계획을 세우기에 시간적 여유가 없는 사람들
@@ -17,7 +17,7 @@
          
 - 나만의 핫플레이스 저장하고 공유
 
-## 기술 스택
+## 💻 기술 스택
 FrontEnd
 <div align='center'>
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -52,7 +52,7 @@ BackEnd
     <img src="https://img.shields.io/badge/github%20actions-0769AD?style=for-the-badge&logo=github%20actions&logoColor=white">
 </div>
 
-## 아키텍처 
+##  아키텍처 
 ![yaneogal_architecture](https://user-images.githubusercontent.com/105188620/181704268-6daa1031-8729-4677-aae2-07a6c984d650.jpg)
 
 ## ERD
@@ -63,8 +63,8 @@ BackEnd
 ## 팀원
 |이름|포지션|깃허브|
 |------|---|---|
-|<g-emoji class="g-emoji" alias="beginner" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f530.png">🔰</g-emoji>노흥진|BE|https://github.com/goodtonoh|
-|<g-emoji class="g-emoji" alias="beginner" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f530.png">🔰</g-emoji>김수정|FE|https://github.com/soojeongkimkr|
+|🔹노흥진|BE|https://github.com/goodtonoh|
+|🔹김수정|FE|https://github.com/soojeongkimkr|
 |이준호|BE|https://github.com/Mohorang|
 |이호진|BE|https://github.com/HoJinnn|
 |홍수민|FE|https://github.com/hongsoom|
